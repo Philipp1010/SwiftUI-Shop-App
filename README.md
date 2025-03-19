@@ -6,10 +6,6 @@
 This project is part of my personal portfolio and is protected by copyright.
 All rights reserved. © 2025 Philipp Hermann.
 
-<div align="center">
-
-# OnlineShopApp - iOS Shopping App 🛍️
-
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=for-the-badge&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-4.0-blue?style=for-the-badge&logo=swift)
 ![iOS](https://img.shields.io/badge/iOS-16.0+-blue?style=for-the-badge&logo=apple)
