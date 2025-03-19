@@ -21,6 +21,29 @@ A modern iOS shopping app built with SwiftUI. The app offers an elegant shopping
 
 ## App Preview 📱
 
+<div align="center">
+
+### 🔐 Authentication
+<p align="center">
+  <img src="Login.png" height="400" alt="Login Screen">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Register.png" height="400" alt="Registration">
+</p>
+
+### 🛍️ Shopping Experience
+<p align="center">
+  <img src="Home.png" height="400" alt="Home Screen">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Home1.png" height="400" alt="Product Overview">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Home-Detail.png" height="400" alt="Product Details">
+</p>
+
+### 🛒 Cart & Favorites
+<p align="center">
+  <img src="Cart.png" height="400" alt="Shopping Cart">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Creditcard.png" height="400" alt="Payment with 3D Card">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Favorite.png" height="400" alt="Favorites">
+</p>
+
+</div>
 
 ## Key Features 🌟
 
