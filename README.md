@@ -1,5 +1,13 @@
 <div align="center">
 
+# iOS Shop App 🛍️
+
+⚠️ **PORTFOLIO PROJECT - NOT FOR COMMERCIAL USE** ⚠️
+This project is part of my personal portfolio and is protected by copyright.
+All rights reserved. © 2025 Philipp Hermann.
+
+<div align="center">
+
 # OnlineShopApp - iOS Shopping App 🛍️
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=for-the-badge&logo=swift)
